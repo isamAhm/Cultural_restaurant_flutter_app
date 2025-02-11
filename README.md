@@ -26,7 +26,7 @@ In conclusion the two features which involve Create, Read, Update, Delete operat
 
 |Project Member Name| ID|
 |:--------------|:------------:|
-|Fikreyohanes Abera| UGR-8889-14|
-|Isam Ahmed| UGR-7643-14|
-|Samuel Tenagne| UGR-8506-14|
-|Zeamanuel Admasu| UGR-8908-14|
+|Isam Ahmed|
+|Fikreyohanes Abera|
+|Samuel Tenagne|
+|Zeamanuel Admasu| 
