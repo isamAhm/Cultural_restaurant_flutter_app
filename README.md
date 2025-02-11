@@ -24,9 +24,9 @@ This project aims to streamline the management of table reservations, catering t
   
 In conclusion the two features which involve Create, Read, Update, Delete operations are table management by admin and booking by customers.
 
-|Project Member Name| ID|
-|:--------------|:------------:|
+|Project Member Name|
+|:--------------:|
 |Isam Ahmed|
 |Fikreyohanes Abera|
 |Samuel Tenagne|
-|Zeamanuel Admasu| 
+|Zeamanuel Admasu|
